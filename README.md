@@ -1,8 +1,3 @@
-Got it! I've updated the name to **Mehul Singh**, and I've also removed all references to Harsh Gohil. Here's the corrected version of your `README.md`:
-
----
-
-```markdown
 # ⚡ Nepal Electrical Supply CRM
 
 A Customer Relationship Management (CRM) system built to streamline and manage electrical supply operations across Nepal. This project helps track customer requests, manage service statuses, and improve workflow efficiency.
